@@ -1,0 +1,26 @@
+si je cree une relation entre un un utilisateur et un profil si je modifie le profil a travers l utilisateur 
+genre  user->profil->url="google.com"
+is je fais user->save() ca ne changera pas le profil.il faut faire user->push() pour prendre en compte les modification
+
+
+relations many to many laravel https://www.youtube.com/watch?v=kbRW-0yPY8Y       https://appdividend.com/2018/05/17/laravel-many-to-many-relationship-example/
+
+validation de formulaire avec image 1h50min
+
+validation de video   https://stackoverflow.com/questions/22378742/laravel-video-file-validation
+
+
+tutoriel sur laravel     https://www.youtube.com/watch?v=4T7jOSxus90&list=PLe30vg_FG4OQz1yZq0z19ZuWD_C3MZbA4
+
+
+
+
+site pour les icones: https://fontawesome.com/icons/trash-alt?style=solid
+
+bibliotque pour les popup http://bootboxjs.com/
+
+site pour trouver des icons pour un site https://www.flaticon.com
+
+en cas de probleme de lien css
+			https://stackoverflow.com/questions/28104583/how-to-include-external-css-and-js-file-in-laravel-5
+			https://stackoverflow.com/questions/15232600/laravel-stylesheets-and-javascript-dont-load-for-non-base-routes
